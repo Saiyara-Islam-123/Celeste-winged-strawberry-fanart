@@ -1,5 +1,5 @@
 #Name: Saiyara Islam
-#McGill ID: 261107829
+
 import turtle
 import math
 turtle.speed("fastest")
